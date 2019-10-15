@@ -5,7 +5,6 @@ ONLOAD STATE WEBPAGE
     */
 
 window.onload = function() {
-
     // DAY NIGHT HTML
     if ($("body").hasClass("night")) {
         div.innerHTML = 'Dark Mode';
