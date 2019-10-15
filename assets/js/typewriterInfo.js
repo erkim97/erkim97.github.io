@@ -46,7 +46,7 @@ var TxtRotate = function(el, toRotate, period) {
     }, delta);
   };
   
-  window.onload = function() {
+  // window.onload = function() {
      //WEATHER API
       
     //  var lat;
@@ -107,5 +107,5 @@ var TxtRotate = function(el, toRotate, period) {
     //  }
   
 
-  }
+  // }
      
