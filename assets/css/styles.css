@@ -7,12 +7,6 @@ html
     overflow-x: hidden; 
 }
 
-@font-face {
-    font-family: 'Lato', sans-serif;
-    font-display: auto;
-    src: local('Lato'), url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0) format('woff2');
-  }
-
 /* Body */
 body {
     font-family: 'Lato', sans-serif;
