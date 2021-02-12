@@ -6,21 +6,21 @@ ONLOAD STATE WEBPAGE
 
 window.onload = function() {
     // DAY NIGHT HTML
-    if ($("body").hasClass("night")) {
-        div.innerHTML = 'Dark Mode';
-        div.style.color = "black";
-        $("div.mh-about-inner, li span").css("color", "white");
-        $("div.mh-about-inner.about-inner-center h2").css("color", "white");
-        $(".mb-5").css("color", "white");
-        $(".col-lg-3.contactinfo, .row.introline").css("color", "white");
+    // if ($("body").hasClass("night")) {
+    //     div.innerHTML = 'Dark Mode';
+    //     div.style.color = "black";
+    //     $("div.mh-about-inner, li span").css("color", "white");
+    //     $("div.mh-about-inner.about-inner-center h2").css("color", "white");
+    //     $(".mb-5").css("color", "white");
+    //     $(".col-lg-3.contactinfo, .row.introline").css("color", "white");
 
-    } else {
-        div.innerHTML = 'Light Mode';
-        div.style.color = "#BE4405";
-        $("div.mh-about-inner, li span").css("color", "black");
-        $(".mb-5").css("color", "black");
-        $(".col-lg-3.contactinfo, .row.introline").css("color", "black");
-    }
+    // } else {
+    //     div.innerHTML = 'Light Mode';
+    //     div.style.color = "#BE4405";
+    //     $("div.mh-about-inner, li span").css("color", "black");
+    //     $(".mb-5").css("color", "black");
+    //     $(".col-lg-3.contactinfo, .row.introline").css("color", "black");
+    // }
 
     // TYPEWRITER ON LOAD JS
     var elements = document.getElementsByClassName('txt-rotate');
