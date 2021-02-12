@@ -197,9 +197,9 @@ a {
     }
 }
 
-.img-color-overlay {
-    background-color: rgba(3, 3, 3, 0.9);
-}
+/* .img-color-overlay {
+    background-color: rgba(0, 0, 0, 0.993);
+} */
 .home-padding {
     padding: 180px 0;
 }
@@ -265,7 +265,7 @@ a {
     font-size: 26px;
     line-height: 34px;
     margin-bottom: 30px;
-    font-weight: 700;
+    font-weight: 500;
 }
 .mh-home .mh-header-info h4 span {
     color: #2196f3;
@@ -458,7 +458,7 @@ body.night {
     left: 44%;
     width: 16%;
     height: 16%;
-} */
+ } 
 .stars {
     opacity: 0;
     margin-left: 100px;
@@ -519,7 +519,7 @@ body.night {
 .stars div:nth-child(7) {
     left: 80%;
     top: 55%;
-}
+} */
 .water {
     position: absolute;
     background: repeating-radial-gradient(ellipse farthest-corner at center -400%, #f5c30e 30%, #518eac 90%) repeat scroll 0 0 #518eac;
@@ -532,7 +532,7 @@ body.night {
 .night .water {
     background: repeating-radial-gradient(ellipse farthest-corner at center -400%, #7fa1bb 30%, #1d425a 90%) repeat scroll 0 0 #1d425a;
 }
-#switchText {
+/* #switchText {
     float: right;
     width: 47px;
     height: 25px;
@@ -540,7 +540,7 @@ body.night {
     margin-top: 110px;
     margin-right: -84px;
     position: relative;
-}
+} */
 .mh-about .mh-about-inner h2 {
     margin-bottom: 45px;
     font-size: 3rem;
@@ -605,7 +605,7 @@ p {
     border-radius: 20px;
 }
 .btn:hover {
-    border: 1px solid #2196f3;
+    border: 2px solid #00223d;
 }
 .text-center {
     text-align: center !important;
