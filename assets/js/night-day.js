@@ -16,7 +16,7 @@ $(".time-circle").click(function () {
         $("div.mh-about-inner, li span").css("color", "black");
         $(".mb-5").css("color", "black");
         $(".col-lg-3.contactinfo, .row.introline").css("color", "black");
-        $("mh-promo").css("color", "black");
+        $("h2.wow.fadeInUp").css("color", "black");
 
         localStorage.setItem('nightMode', null);
 
@@ -25,7 +25,7 @@ $(".time-circle").click(function () {
         $("div.mh-about-inner, li span").css("color", "white");
         $(".mb-5").css("color", "white");
         $(".col-lg-3.contactinfo, .row.introline").css("color", "white");
-        $("mh-promo").css("color", "white");
+        $("h2.wow.fadeInUp").css("color", "white");
 
         localStorage.setItem('nightMode', 'night');
 
