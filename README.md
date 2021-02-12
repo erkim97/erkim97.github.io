@@ -1,3 +1,3 @@
 # erkim97.github.io
-My Portfolio Website
-Utilized: HTML, CSS, Bootstrap, Javascript, JQuery
+My Portfolio Website <br>
+In Progress
