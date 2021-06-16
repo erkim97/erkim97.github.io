@@ -198,9 +198,9 @@ a {
     }
 }
 
-/* .img-color-overlay {
-    background-color: rgba(0, 0, 0, 0.993);
-} */
+ .img-color-overlay {
+    background-image: url(/assets/images/background/bImg.jpg);
+} 
 .home-padding {
     padding: 180px 0;
 }
