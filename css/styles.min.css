@@ -199,7 +199,8 @@ a {
 }
 
  .img-color-overlay {
-    background-image: url(/assets/images/background/b1.jpg);
+    background: url(/assets/images/background/b1.jpg) no-repeat;
+    background-size: 100%;
 } 
 .home-padding {
     padding: 180px 0;
