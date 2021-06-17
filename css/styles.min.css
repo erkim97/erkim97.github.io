@@ -198,13 +198,11 @@ a {
     }
 }
 
- .img-color-overlay {
-    background: url(/assets/images/background/b1.jpg) no-repeat;
-    background-size: 100%;
+ /** .img-color-overlay {
 } 
 .home-padding {
     padding: 180px 0;
-}
+}*/
 .vertical-middle-content {
     display: -webkit-flex;
     display: -moz-flex;
