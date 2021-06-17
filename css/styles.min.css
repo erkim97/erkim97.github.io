@@ -16,7 +16,7 @@ body {
     text-align: left;
     position: relative;
     color: #999;
-    opacity: 0.9;
+    opacity: 1;
     margin: 0;
     /* -webkit-transition: background 0.5s ease-in-out;
     transition: background 0.5s ease-in-out; */
@@ -199,7 +199,7 @@ a {
 }
 
  .img-color-overlay {
-    background-image: url(/assets/images/background/bImg.jpg);
+    background-image: url(/assets/images/background/b1.jpg);
 } 
 .home-padding {
     padding: 180px 0;
@@ -218,7 +218,7 @@ a {
 }
 .mh-home .mh-header-info {
     padding-top: 100px;
-    opacity: 0.9;
+    opacity: 1;
 }
 .mh-home .mh-header-info .mh-promo {
     margin-bottom: 30px;
