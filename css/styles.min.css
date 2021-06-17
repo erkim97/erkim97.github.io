@@ -1,4 +1,3 @@
-
 html {
     width: 100%;
     height: 100%;
@@ -16,7 +15,7 @@ body {
     text-align: left;
     position: relative;
     color: #999;
-    opacity: 1;
+    opacity: 0.9;
     margin: 0;
     /* -webkit-transition: background 0.5s ease-in-out;
     transition: background 0.5s ease-in-out; */
@@ -198,9 +197,9 @@ a {
     }
 }
 
- /** .img-color-overlay {
-} 
-*/
+/* .img-color-overlay {
+    background-color: rgba(0, 0, 0, 0.993);
+} */
 .home-padding {
     padding: 180px 0;
 }
@@ -218,7 +217,7 @@ a {
 }
 .mh-home .mh-header-info {
     padding-top: 100px;
-    opacity: 1;
+    opacity: 0.9;
 }
 .mh-home .mh-header-info .mh-promo {
     margin-bottom: 30px;
